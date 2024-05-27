@@ -21,8 +21,8 @@
 					<nav id="nav">
 						<a href="#" class="icon solid fa-home"><span>Home</span></a>
 						<a href="#work" class="icon solid fa-folder"><span>Work</span></a>
-						<a href="#contact" class="icon solid fa-envelope"><span>Contact</span></a>
-						<a href="https://twitter.com/ajlkn" class="icon brands fa-twitter"><span>Twitter</span></a>
+						<!-- <a href="#contact" class="icon solid fa-envelope"><span>Contact</span></a> -->
+						<!-- <a href="https://twitter.com/" class="icon brands fa-twitter"><span>Twitter</span></a> -->
 					</nav>
 
 				<!-- Main -->
@@ -36,7 +36,7 @@
 								</header>
 								<a href="#work" class="jumplink pic">
 									<span class="arrow icon solid fa-chevron-right"><span>See my work</span></span>
-									<img src="images/me.jpg" alt="" />
+									<img src="images/logo.png" alt="" />
 								</a>
 							</article>
 
@@ -93,7 +93,7 @@
 							</article>
 
 						<!-- Contact -->
-							<article id="contact" class="panel">
+							<!-- <article id="contact" class="panel">
 								<header>
 									<h2>Contact Me</h2>
 								</header>
@@ -118,7 +118,7 @@
 										</div>
 									</div>
 								</form>
-							</article>
+							</article> -->
 
 					</div>
 
